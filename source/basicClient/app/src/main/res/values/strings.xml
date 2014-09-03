@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndPush</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="register_with_gcm">Register with GCM</string>
+    <string name="not_registered">Not yet registered</string>
+    <string name="register_with_no_tags">Register without Tags</string>
+    <string name="register_with_tags">Register With Tags</string>
+    <string name="register_with_templates">Register with Templates</string>
+    
+    <string name="status_registered">Registered with GCM</string>
+    <string name="status_registered_with_tags">Registered with TAGS</string>
+    <string name="status_registered_with_no_tags">Registered with NO tags</string>
+    <string name="status_registered_with_templates">Registered with Templates</string>
+    
+
+</resources>
